@@ -4,8 +4,10 @@
 3.pip install numpy
 4.pip install pillow
 
+
 注：如果安装缓慢，可以使用下面的语句使用清华源安装
 pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple 包名
+
 
 
 编辑：
