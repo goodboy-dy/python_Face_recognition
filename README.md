@@ -1,3 +1,16 @@
+tree:<br>
+├── 人脸识别.py<br>
+├── 人脸训练.py<br>
+├── 人脸照相.py<br>
+├── 相机测试.py<br>
+├── README<br>
+├── tools<br>
+│   ├── haarcascade_eye.xml<br>
+│   └── haarcascade_frontalface_default.xml<br>
+└── train<br>
+<br>
+<br>
+
 必备库安装：<br>
 1.pip install opencv-python<br>
 2.pip install opencv-contrib-python<br>
