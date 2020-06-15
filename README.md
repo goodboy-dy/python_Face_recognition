@@ -1,5 +1,5 @@
 必备库安装：
-1.pip install opencv-python
+1.pip install opencv-python<br>
 2.pip install opencv-contrib-python
 3.pip install numpy
 4.pip install pillow
